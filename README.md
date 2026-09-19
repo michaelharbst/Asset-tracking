@@ -1,1 +1,3 @@
 # Asset tracking
+
+This applicaion keeps tracks of Assets across offices and borders. At the moment it just allows for mobile phones and computers but it is easy to extend to other kind of assets as well.  The assets are a list and it is saved in a JSON file upon exit. It is made in c# and is a pure console application. Next step should be a better gui and using a database. In terms of installing it just clone the repository and build it fx with Visual Studio. It will start with a default list of assets. if you like you can find the JSON file in the default working directory and modify it directly and then load it.
