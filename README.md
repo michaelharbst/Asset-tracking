@@ -138,7 +138,7 @@ Default data should only be loaded into an empty database to avoid duplicates.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/michaelharbst/Asset-tracking.git
 ```
 
 2. Open the solution in Visual Studio.
