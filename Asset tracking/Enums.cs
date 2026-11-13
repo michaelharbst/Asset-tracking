@@ -23,4 +23,13 @@ namespace Asset_tracking
         USD,
         TRY
     }
+
+    internal enum AssetFilter
+    {
+        All,
+        Expired,
+        Computers,
+        MobileDevices,
+        Office
+    }
 }
